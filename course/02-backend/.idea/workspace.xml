@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb4531a1-a054-40e5-9f36-104ca2c618a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/controller/CheckoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dao/CountryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dao/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dao/StateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dto/Purchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/dto/PurchaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/entity/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/service/CheckoutService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/service/CheckoutServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/.idea/03-frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/books/book-luv2code-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/coffeemugs/coffeemug-luv2code-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/luggagetags/luggagetag-luv2code-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/mousepads/mousepad-luv2code-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/assets/images/products/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/address.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/address.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/cart-item.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/cart-item.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/country.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/country.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/customer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/customer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/order-item.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/order-item.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/order.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/order.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/product-category.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/product-category.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/product.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/purchase.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/purchase.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/state.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/common/state.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-details/cart-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-details/cart-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-details/cart-details.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-details/cart-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-status/cart-status.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-status/cart-status.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-status/cart-status.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/cart-status/cart-status.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/checkout/checkout.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/checkout/checkout.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/checkout/checkout.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/checkout/checkout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login-status/login-status.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login-status/login-status.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login-status/login-status.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login-status/login-status.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/members-page/members-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/members-page/members-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/members-page/members-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/members-page/members-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-category-menu/product-category-menu.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-category-menu/product-category-menu.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-category-menu/product-category-menu.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-category-menu/product-category-menu.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-details/product-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-details/product-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-details/product-details.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-details/product-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list-grid.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list-table.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/search/search.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/search/search.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/components/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/config/my-app-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/cart.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/cart.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/checkout.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/checkout.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/luv2-shop-form.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/luv2-shop-form.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/product.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/services/product.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/validators/luv2-shop-validators.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/app/validators/luv2-shop-validators.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/okta-signin-widget.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/angular-ecommerce/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2vMvI7RibFyvZpdn07lz2CzBYqM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/filip/Documents/angular-course/course/02-backend/spring-boot-ecommerce"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringBootEcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
+      <module name="spring-boot-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootEcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4531a1-a054-40e5-9f36-104ca2c618a4" name="Changes" comment="" />
+      <created>1743967679476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743967679476</updated>
+    </task>
+    <servers />
+  </component>
+</project>

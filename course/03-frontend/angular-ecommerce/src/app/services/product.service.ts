@@ -1,88 +1,27 @@
-import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { map, Observable } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
 import { Product } from '../common/product';
-import { ProductCategory } from '../common/product-category';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 
 @Injectable({
-  providedIn: 'root',
+  providedIn: 'root'
 })
 export class ProductService {
-  private baseUrl = 'http://localhost:8080/api/products';
-  private categoryUrl = 'http://localhost:8080/api/product-category';
 
-  constructor(private httpClient: HttpClient) {}
+  private baseUrl = 'http://localhost:8080/api/products?size=100';
 
-  getProduct(theProductId: number): Observable<Product> {
-    // need to build URL based on product id
-    const productURL = `${this.baseUrl}/${theProductId}`;
+  constructor(private httpClient: HttpClient) { }
 
-    return this.httpClient.get<Product>(productURL);
-  }
-
-  getProductListPaginate(
-    thePage: number,
-    thePageSize: number,
-    theCategoryId: number
-  ): Observable<GetResponseProducts> {
-    // need to build URL based on category id, page and size
-    const searchURL =
-      `${this.baseUrl}/search/findByCategoryId?id=${theCategoryId}` +
-      `&page=${thePage}&size=${thePageSize}`;
-    return this.httpClient.get<GetResponseProducts>(searchURL);
-  }
-
-  getProductList(theCategoryId: number): Observable<Product[]> {
-    // need to build URL based on category id
-    const searchURL = `${this.baseUrl}/search/findByCategoryId?id=${theCategoryId}`;
-    return this.getProducts(searchURL);
-  }
-
-  searchProducts(theKeyword: string): Observable<Product[]> {
-    // need to build URL based on thr keyword
-    const searchURL = `${this.baseUrl}/search/findByNameContaining?name=${theKeyword}`;
-    return this.getProducts(searchURL);
-  }
-
-  searchProductsPaginate(
-    thePage: number,
-    thePageSize: number,
-    theKeyword: string
-  ): Observable<GetResponseProducts> {
-    // need to build URL based on keyword, page and size
-    const searchURL =
-      `${this.baseUrl}/search/findByNameContaining?name=${theKeyword}` +
-      `&page=${thePage}&size=${thePageSize}`;
-    return this.httpClient.get<GetResponseProducts>(searchURL);
-  }
-
-  private getProducts(searchURL: string): Observable<Product[]> {
-    return this.httpClient
-      .get<GetResponseProducts>(searchURL)
-      .pipe(map((response) => response._embedded.products));
-  }
-
-  getProductCategories(): Observable<ProductCategory[]> {
-    return this.httpClient
-      .get<GetResponseProductCategory>(this.categoryUrl)
-      .pipe(map((response) => response._embedded.productCategory));
+  getProductList(): Observable<Product[]> {
+    return this.httpClient.get<GetResponse>(this.baseUrl).pipe(
+      map(response => response._embedded.products)
+    );
   }
 }
 
-interface GetResponseProducts {
+interface GetResponse {
   _embedded: {
     products: Product[];
-  };
-  page: {
-    size: number;
-    totalElements: number;
-    totalPages: number;
-    number: number;
-  };
-}
-
-interface GetResponseProductCategory {
-  _embedded: {
-    productCategory: ProductCategory[];
-  };
+  }
 }
