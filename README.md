@@ -17,7 +17,7 @@ angular-course-main/
 ## 🛠 Technologie
 
 ### Frontend
-- Angular 15+
+- Angular 14+
 - TypeScript
 - RxJS
 - Angular CLI
